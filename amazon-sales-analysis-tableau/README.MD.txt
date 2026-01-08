@@ -18,3 +18,4 @@ This project presents an interactive Tableau dashboard built to analyze Amazon s
 
 ## Dashboard Preview
 [Click here to view the dashboard PDF](dashboard/Amazon_Sales_Dashboard.pdf)
+
