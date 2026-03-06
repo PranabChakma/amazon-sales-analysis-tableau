@@ -5,4 +5,4 @@ This project presents an interactive sales analytics dashboard developed to anal
 The objective of this project is to extract meaningful business insights that can help stakeholders understand sales trends, customer demand, product performance, and operational efficiency
 
 ## Dashboard
-[Click Here](./Amazon_Sales_Dashboard.pdf)
+[Click Here](./Amazon_Sales_Dashboard.pdf.png)
